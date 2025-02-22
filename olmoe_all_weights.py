@@ -1,3 +1,5 @@
+#提取出question中每一个token的routing weight 
+
 import torch
 import numpy as np
 import json
